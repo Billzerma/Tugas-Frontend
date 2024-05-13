@@ -1,10 +1,9 @@
-package com.example.tugasss.DataDummy
-
+package com.tugasInfinite.tugasss.data
 
 import com.example.tugasss.R
-import com.example.tugasss.model.Boss
-import com.example.tugasss.model.Map
-import com.example.tugasss.model.Weapon
+import com.tugasInfinite.tugasss.model.Boss
+import com.tugasInfinite.tugasss.model.Map
+import com.tugasInfinite.tugasss.model.Weapon
 
 
 object dummyData {
