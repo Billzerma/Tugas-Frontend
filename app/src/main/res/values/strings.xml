@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elden Ring</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_weapon">Weapon</string>
+    <string name="about">about</string>
+    <string name="tarnished">Trivia Elden Ring</string>
+    <string name="share_message">Ayo Join Menejelajah Land Beetween</string>
+    <string name="menu_share">Share</string>
+</resources>
